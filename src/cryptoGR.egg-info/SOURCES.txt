@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/__init__.py
+src/applyHash.py
+src/hashFiles.py
+src/password.py
+src/cryptoGR.egg-info/PKG-INFO
+src/cryptoGR.egg-info/SOURCES.txt
+src/cryptoGR.egg-info/dependency_links.txt
+src/cryptoGR.egg-info/requires.txt
+src/cryptoGR.egg-info/top_level.txt
